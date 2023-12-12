@@ -13,11 +13,6 @@
 #+NAME: 0045_arch-red-minimalist.png
 [[./0045_arch-red-minimalist.png]]
 
-** 0051_minimalist-cloud-storage-bits.png
-#+CAPTION: 0051_minimalist-cloud-storage-bits.png
-#+NAME: 0051_minimalist-cloud-storage-bits.png
-[[./0051_minimalist-cloud-storage-bits.png]]
-
 ** 0066_linux-tux-penguin.png
 #+CAPTION: 0066_linux-tux-penguin.png
 #+NAME: 0066_linux-tux-penguin.png
@@ -27,11 +22,6 @@
 #+CAPTION: 0067_code-minimalist-joke-sudormrfslash.png
 #+NAME: 0067_code-minimalist-joke-sudormrfslash.png
 [[./0067_code-minimalist-joke-sudormrfslash.png]]
-
-** 0075_arch-bats-moon-minimalist.png
-#+CAPTION: 0075_arch-bats-moon-minimalist.png
-#+NAME: 0075_arch-bats-moon-minimalist.png
-[[./0075_arch-bats-moon-minimalist.png]]
 
 ** 0091_crash-bluescreen-joke.png
 #+CAPTION: 0091_crash-bluescreen-joke.png
@@ -88,60 +78,15 @@
 #+NAME: 0241_stars-minimalist-expression.jpg
 [[./0241_stars-minimalist-expression.jpg]]
 
-** 0246_dracula-bats-moon.png
-#+CAPTION: 0246_dracula-bats-moon.png
-#+NAME: 0246_dracula-bats-moon.png
-[[./0246_dracula-bats-moon.png]]
-
 ** 0258_minimal-bonsai-ascii-dark.png
 #+CAPTION: 0258_minimal-bonsai-ascii-dark.png
 #+NAME: 0258_minimal-bonsai-ascii-dark.png
 [[./0258_minimal-bonsai-ascii-dark.png]]
 
-** 0265_arch-light-blue-minimal.png
-#+CAPTION: 0265_arch-light-blue-minimal.png
-#+NAME: 0265_arch-light-blue-minimal.png
-[[./0265_arch-light-blue-minimal.png]]
-
-** 0266_arch-lime-minimal-logo.png
-#+CAPTION: 0266_arch-lime-minimal-logo.png
-#+NAME: 0266_arch-lime-minimal-logo.png
-[[./0266_arch-lime-minimal-logo.png]]
-
-** 0267_arch-pink-logo-minimal.png
-#+CAPTION: 0267_arch-pink-logo-minimal.png
-#+NAME: 0267_arch-pink-logo-minimal.png
-[[./0267_arch-pink-logo-minimal.png]]
-
-** 0268_arch-logo-minimal-marine.png
-#+CAPTION: 0268_arch-logo-minimal-marine.png
-#+NAME: 0268_arch-logo-minimal-marine.png
-[[./0268_arch-logo-minimal-marine.png]]
-
-** 0269_arch-logo-cyan-minimal.png
-#+CAPTION: 0269_arch-logo-cyan-minimal.png
-#+NAME: 0269_arch-logo-cyan-minimal.png
-[[./0269_arch-logo-cyan-minimal.png]]
-
 ** 0274_arch-logo-black-black.png
 #+CAPTION: 0274_arch-logo-black-black.png
 #+NAME: 0274_arch-logo-black-black.png
 [[./0274_arch-logo-black-black.png]]
-
-** 0275_arch-logo-black-blue.png
-#+CAPTION: 0275_arch-logo-black-blue.png
-#+NAME: 0275_arch-logo-black-blue.png
-[[./0275_arch-logo-black-blue.png]]
-
-** 0276_arch-logo-black-orange.png
-#+CAPTION: 0276_arch-logo-black-orange.png
-#+NAME: 0276_arch-logo-black-orange.png
-[[./0276_arch-logo-black-orange.png]]
-
-** 0277_joke-garden-animals-onion.png
-#+CAPTION: 0277_joke-garden-animals-onion.png
-#+NAME: 0277_joke-garden-animals-onion.png
-[[./0277_joke-garden-animals-onion.png]]
 
 ** 0283_solarized-heart-kernel-blue.png
 #+CAPTION: 0283_solarized-heart-kernel-blue.png
@@ -152,14 +97,3 @@
 #+CAPTION: 0286_linux-tux-stripes-gruvbox.png
 #+NAME: 0286_linux-tux-stripes-gruvbox.png
 [[./0286_linux-tux-stripes-gruvbox.png]]
-
-** 0377_windows-pepe-neon-blue.png
-#+CAPTION: 0377_windows-pepe-neon-blue.png
-#+NAME: 0377_windows-pepe-neon-blue.png
-[[./0377_windows-pepe-neon-blue.png]]
-
-** README.org
-#+CAPTION: README.org
-#+NAME: README.org
-[[./README.org]]
-
