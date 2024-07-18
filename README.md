@@ -1,6 +1,6 @@
 # wallpapers
 
-A gallery of wallpapers for goats.
+A gallery of wallpapers forked from amtoine so i can add my own.
 
 
 ## Ownership.
@@ -10,8 +10,8 @@ These wallpapers come from the internet. Diffusion and usage rights are not know
 If you stumble upon art or photos that you own or that you know and show that special rights have to be used to use or share them, *let me known and I will remove them immediately and without question!*
 
 ## Gallery
-- [[wallpapers/abstract/README.md][wallpapers/abstract]]
-- [[wallpapers/real/README.md][wallpapers/real]]
-- [[wallpapers/fun-tech/README.md][wallpapers/fun-tech]]
-- [[wallpapers/pop/README.md][wallpapers/pop]]
-- [[wallpapers/other/README.md][wallpapers/other]]
+- [wallpapers/abstract](wallpapers/abstract/README.md)
+- [wallpapers/real](wallpapers/real/README.md)
+- [wallpapers/fun-tech](wallpapers/fun-tech/README.md)
+- [wallpapers/pop](wallpapers/pop/README.md)
+- [wallpapers/other](wallpapers/other/README.md)

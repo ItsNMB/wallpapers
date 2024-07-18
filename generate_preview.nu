@@ -25,7 +25,7 @@ def clean [] {
 def preview [filename: path, name: string, --level: int = 4]: nothing -> string {
     [
         $"('#' | repeat $level | str join) ($name)"
-        $"[[./($filename)]]\n\n"
+        $"![]\(./($filename)\)\n\n"
     ]
     | str join "\n"
 }
@@ -41,7 +41,8 @@ def main [] {
                 let readme = $it.name | path join $README
                 "" | save --force $readme
 
-                $"- [[($readme)][($it.name)]]\n" | save --force --append $README
+                # $"- [[($readme)][($it.name)]]\n" | save --force --append $README
+                $"- [($it.name)]\(($readme)\)\n" | save --force --append $README
 
                 ls $it.name | where type == file | each {|file|
                     print -n $"(ansi erase_line)($file.name)\r"
