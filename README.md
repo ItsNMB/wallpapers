@@ -13,5 +13,6 @@ If you stumble upon art or photos that you own or that you know and show that sp
 - [wallpapers/abstract](wallpapers/abstract/README.md)
 - [wallpapers/real](wallpapers/real/README.md)
 - [wallpapers/fun-tech](wallpapers/fun-tech/README.md)
+- [wallpapers/more](wallpapers/more/README.md)
 - [wallpapers/pop](wallpapers/pop/README.md)
 - [wallpapers/other](wallpapers/other/README.md)

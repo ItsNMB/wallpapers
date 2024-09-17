@@ -313,9 +313,6 @@
 ## 0374_strips-blackwhite-body-legs.png
 ![](./0374_strips-blackwhite-body-legs.png)
 
-## 0296_girl-pool-plane-towel.jpg
-![](./0296_girl-pool-plane-towel.jpg)
-
 ## 0259_minimal-planets-stars-space.png
 ![](./0259_minimal-planets-stars-space.png)
 
